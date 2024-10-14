@@ -1,0 +1,9 @@
+.divlink {
+    padding: 8px;
+    background-color: white;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
